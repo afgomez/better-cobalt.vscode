@@ -92,6 +92,17 @@
 			"settings": {
 				"foreground": "#ffee80"
 			}
+		},
+		{
+			"name": "HTML tag",
+			"scope": [
+				"meta.tag",
+				"keyword.operator.assignment meta.tag",
+				"punctuation.section.embedded meta.tag"
+			],
+			"settings": {
+				"foreground": "#9effff"
+			}
 		}
 	]
 }
