@@ -28,11 +28,30 @@
 		{
 			"name": "String",
 			"scope": [
-				"string.quoted.double",
-				"string.quoted.single"
+				"string"
 			],
 			"settings": {
 				"foreground": "#3ad900"
+			}
+		},
+		{
+			"name": "String interpolation",
+			"scope": [
+				"punctuation.definition.template-expression",
+				"punctuation.section.embedded"
+			],
+			"settings": {
+				"foreground": "#9eff80"
+			}
+		},
+		{
+			"name": "Interpolation source",
+			"scope": [
+				"meta.template.expression",
+				"source meta.embedded"
+			],
+			"settings": {
+				"foreground": "#ffffff"
 			}
 		},
 		{
