@@ -77,7 +77,8 @@
 		{
 			"name": "Function",
 			"scope": [
-				"meta.definition.function"
+				"meta.definition.function",
+				"meta.function.method"
 			],
 			"settings": {
 				"foreground": "#ffdd00"
