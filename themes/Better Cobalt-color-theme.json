@@ -94,6 +94,18 @@
 			}
 		},
 		{
+			"name": "Variable",
+			"scope": [
+				"variable.scss",
+				"variable.sass",
+				"variable.other.readwrite.instance.ruby",
+				"variable.other.readwrite.class.ruby"
+			],
+			"settings": {
+				"foreground": "#bbbbbb"
+			}
+		},
+		{
 			"name": "HTML tag",
 			"scope": [
 				"meta.tag",
