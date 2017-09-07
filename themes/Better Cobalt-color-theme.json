@@ -1,0 +1,77 @@
+{
+	"name": "Better Cobalt",
+	"type": "dark",
+	"colors": {
+		"editor.background": "#071027",
+		"editor.foreground": "#ffffff",
+		"activityBarBadge.background": "#007acc",
+		"sideBarTitle.foreground": "#bbbbbb"
+	},
+	"tokenColors": [
+		{
+			"settings": {
+				"foreground": "#eeffffff",
+				"background": "#263238ff"
+			}
+		},
+		{
+			"name": "Comment",
+			"scope": [
+				"comment",
+				"punctuation.definition.comment"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#0066cc"
+			}
+		},
+		{
+			"name": "String",
+			"scope": [
+				"string.quoted.double",
+				"string.quoted.single"
+			],
+			"settings": {
+				"foreground": "#3ad900"
+			}
+		},
+		{
+			"name": "Constant",
+			"scope": [
+				"constant",
+				"support.type.object.module"
+			],
+			"settings": {
+				"foreground": "#ff628c"
+			}
+		},
+		{
+			"name": "Keyword",
+			"scope": [
+				"keyword",
+				"keyword.operator"
+			],
+			"settings": {
+				"foreground": "#ff9d00"
+			}
+		},
+		{
+			"name": "Function",
+			"scope": [
+				"meta.definition.function"
+			],
+			"settings": {
+				"foreground": "#ffdd00"
+			}
+		},
+		{
+			"name": "Type",
+			"scope": [
+				"storage.type"
+			],
+			"settings": {
+				"foreground": "#ffee80"
+			}
+		}
+	]
+}

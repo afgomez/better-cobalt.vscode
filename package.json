@@ -1,0 +1,22 @@
+{
+    "name": "better-cobalt",
+    "displayName": "better-cobalt",
+    "description": "Cobalt, but better",
+    "version": "0.0.1",
+    "publisher": "afgomez",
+    "engines": {
+        "vscode": "^1.16.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Better Cobalt",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Better Cobalt-color-theme.json"
+            }
+        ]
+    }
+}
