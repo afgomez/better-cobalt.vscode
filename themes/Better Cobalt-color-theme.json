@@ -121,7 +121,8 @@
 		{
 			"name": "Type",
 			"scope": [
-				"storage.type"
+				"storage.type",
+				"storage.modifier"
 			],
 			"settings": {
 				"foreground": "#ffee80"
