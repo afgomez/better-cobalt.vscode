@@ -97,10 +97,12 @@
 			}
 		},
 		{
-			"name": "Function",
+			"name": "Entity",
 			"scope": [
 				"meta.definition.function",
-				"meta.function.method"
+				"meta.definition.method",
+				"meta.function.method",
+				"entity.name.type"
 			],
 			"settings": {
 				"foreground": "#ffdd00"
