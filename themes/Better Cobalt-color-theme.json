@@ -35,6 +35,15 @@
 			}
 		},
 		{
+			"name": "Regexp",
+			"scope": [
+				"string.regexp"
+			],
+			"settings": {
+				"foreground": "#80ffc2"
+			}
+		},
+		{
 			"name": "String interpolation",
 			"scope": [
 				"punctuation.definition.template-expression",
