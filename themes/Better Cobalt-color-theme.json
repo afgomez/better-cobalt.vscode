@@ -26,6 +26,17 @@
 			}
 		},
 		{
+			"name": "Support",
+			"scope": [
+				"support.class",
+				"support.variable.dom",
+				"support.variable.object"
+			],
+			"settings": {
+				"foreground": "#80FFBB"
+			}
+		},
+		{
 			"name": "String",
 			"scope": [
 				"string"
