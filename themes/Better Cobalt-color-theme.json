@@ -122,7 +122,12 @@
 			"name": "Type",
 			"scope": [
 				"storage.type",
-				"storage.modifier"
+				"storage.modifier",
+				"support.type",
+				"meta.type.annotation",
+				"meta.return.type",
+				"meta.type entity.name.type",
+				"meta.return.type entity.name.type"
 			],
 			"settings": {
 				"foreground": "#ffee80"
