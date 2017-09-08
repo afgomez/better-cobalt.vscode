@@ -67,7 +67,9 @@
 			"name": "Constant",
 			"scope": [
 				"constant",
-				"support.type.object.module"
+				"support.type.object.module",
+				"variable.language.this",
+				"keyword.control.default"
 			],
 			"settings": {
 				"foreground": "#ff628c"
