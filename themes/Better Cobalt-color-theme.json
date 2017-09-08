@@ -150,8 +150,9 @@
 			"scope": [
 				"meta.tag",
 				"entity.name.tag",
-				"keyword.operator.assignment meta.tag",
-				"punctuation.section.embedded meta.tag"
+				"meta.tag keyword.operator.assignment",
+				"meta.tag punctuation.section.embedded",
+				"meta.tag support.class"
 			],
 			"settings": {
 				"foreground": "#9effff"
