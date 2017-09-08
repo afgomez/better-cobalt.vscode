@@ -109,6 +109,16 @@
 			}
 		},
 		{
+			"name": "Entity: Inherited class",
+			"scope": [
+				"entity.other.inherited-class"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#80FCFF"
+			}
+		},
+		{
 			"name": "Type",
 			"scope": [
 				"storage.type"
