@@ -2,10 +2,16 @@
 	"name": "Better Cobalt",
 	"type": "dark",
 	"colors": {
+		"activityBarBadge.background": "#007acc",
 		"editor.background": "#071027",
 		"editor.foreground": "#ffffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editor.lineHighlightBackground": "#00000059",
+		"editor.lineHighlightBorder": "#000000",
+		"editor.selectionBackground": "#B3653990",
+		"editorGutter.background": "#FFFFFF12",
+		"editorLineNumber.foreground": "#364350",
+		"sideBarTitle.foreground": "#bbbbbb",
+		"terminal.background": "#000000"
 	},
 	"tokenColors": [
 		{
