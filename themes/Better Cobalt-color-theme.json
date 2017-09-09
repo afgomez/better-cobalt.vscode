@@ -11,6 +11,8 @@
 		"editorGutter.background": "#FFFFFF12",
 		"editorLineNumber.foreground": "#364350",
 		"sideBarTitle.foreground": "#bbbbbb",
+		"diffEditor.insertedTextBackground": "#154F006A",
+		"diffEditor.removedTextBackground": "#570A0088",
 		"terminal.background": "#000000"
 	},
 	"tokenColors": [
