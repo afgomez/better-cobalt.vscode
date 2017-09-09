@@ -99,8 +99,14 @@
 			"scope": [
 				"keyword",
 				"keyword.operator",
-				"source.js storage.type", // function, class, var, const, let.. are all keywords. That way we reserve Type for Typescript
-				"source.js storage.modifier"
+				"storage.type.js",
+				"storage.type.class.js",
+				"storage.type.function.js",
+				"storage.type.ts",
+				"storage.type.class.ts",
+				"storage.type.function.ts",
+				"storage.modifier.js",
+				"storage.modifier.ts"
 			],
 			"settings": {
 				"foreground": "#ff9d00"
