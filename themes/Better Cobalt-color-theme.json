@@ -159,11 +159,19 @@
 				"meta.tag",
 				"entity.name.tag",
 				"meta.tag keyword.operator.assignment",
-				"meta.tag punctuation.section.embedded",
 				"meta.tag support.class"
 			],
 			"settings": {
 				"foreground": "#9effff"
+			}
+		},
+		{
+			"name": "JSX tag content",
+			"scope": [
+				"meta.jsx.children"
+			],
+			"settings": {
+				"foreground": "#ffffff"
 			}
 		},
 		{
