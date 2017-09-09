@@ -235,6 +235,69 @@
 			"settings": {
 				"foreground": "#ffee80"
 			}
+		},
+
+		// Markup
+		{
+			"name": "Markup heading",
+			"scope": [
+				"markup.heading"
+			],
+			"settings": {
+				"background": "#001221",
+				"fontStyle": "bold",
+				"foreground": "#FFDD00"
+			}
+		},
+		{
+			"name": "Markup heading symbol",
+			"scope": [
+				"markup.heading punctuation.definition.heading"
+			],
+			"settings": {
+				"background": "#001221",
+				"fontStyle": "bold",
+				"foreground": "#C8E4FD"
+			}
+		},
+		{
+			"name": "Markup Raw",
+			"scope": [
+				"markup.raw"
+			],
+			"settings": {
+				"background": "#8FDDF630"
+			}
+		},
+		{
+			"name": "Markup Bold",
+			"scope": [
+				"markup.bold"
+			],
+			"settings": {
+				"fontStyle": "bold",
+				"foreground": "#C1AFFF"
+			}
+		},
+		{
+			"name": "Markup Italic",
+			"scope": [
+				"markup.italic"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#B8FFD9"
+			}
+		},
+		{
+			"name": "Markup Link",
+			"scope": [
+				"markup.underline.link"
+			],
+			"settings": {
+				"fontStyle": "underline",
+				"foreground": "#5493d3"
+			}
 		}
 	]
 }
