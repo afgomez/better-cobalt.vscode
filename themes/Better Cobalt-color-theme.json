@@ -4,8 +4,6 @@
 	"colors": {
 		"activityBar.background": "#071027",
 		"activityBarBadge.background": "#007acc",
-		"diffEditor.insertedTextBackground": "#154F006A",
-		"diffEditor.removedTextBackground": "#570A0088",
 		"editor.background": "#071027",
 		"editor.foreground": "#ffffff",
 		"editor.lineHighlightBackground": "#00000059",
