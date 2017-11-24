@@ -263,6 +263,15 @@
         "fontStyle": "underline",
         "foreground": "#5493d3"
       }
+    },
+
+    // YAML/JSON
+    {
+      "name": "Key",
+      "scope": ["entity.name.tag.yaml", "support.type.property-name.json"],
+      "settings": {
+        "foreground": "#ffee80"
+      }
     }
   ]
 }
