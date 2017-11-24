@@ -180,7 +180,7 @@
     },
     {
       "name": "CSS Selector ID",
-      "scope": ["entity.other.attribute-name.id.css"],
+      "scope": ["entity.other.attribute-name.id"],
       "settings": {
         "foreground": "#ff9d00"
       }
