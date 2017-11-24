@@ -1,7 +1,15 @@
 # Change Log
-All notable changes to the "better-cobalt" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 0.0.3
 
-## [Unreleased]
-- Initial release
+* Refine the highlighting of keys in YAML/JSON files
+* Fix the ID highlighting for HAML files
+* Fix the `&` highlighting in SASS files
+
+## 0.0.2
+
+* Refinements in the VSCode UI
+
+## 0.0.1
+
+* Initial release
