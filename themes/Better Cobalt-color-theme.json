@@ -172,6 +172,13 @@
       }
     },
     {
+      "name": "SASS &",
+      "scope": ["entity.name.tag.reference"],
+      "settings": {
+        "foreground": "#ff9d00"
+      }
+    },
+    {
       "name": "CSS Selector Class",
       "scope": ["entity.other.attribute-name.class"],
       "settings": {
