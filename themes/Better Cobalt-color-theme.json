@@ -120,8 +120,8 @@
       "scope": [
         "meta.definition.function",
         "meta.definition.method",
-        "meta.function.method",
-        "entity.name.type"
+        "entity.name.type",
+        "entity.name.function.ruby"
       ],
       "settings": {
         "foreground": "#ffdd00"

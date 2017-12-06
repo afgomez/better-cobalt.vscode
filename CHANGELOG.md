@@ -4,6 +4,7 @@
 
 * Fix the highlighting for `.tsx` files
 * Refine the highlighting for Typescript files.
+* Fix method definitions in Ruby
 
 
 ## 0.0.3
