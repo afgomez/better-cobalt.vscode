@@ -2,12 +2,14 @@
   "name": "better-cobalt",
   "displayName": "Better Cobalt",
   "description": "Cobalt, but better",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "afgomez",
   "engines": {
     "vscode": "^1.16.0"
   },
-  "categories": ["Themes"],
+  "categories": [
+    "Themes"
+  ],
   "contributes": {
     "themes": [
       {
