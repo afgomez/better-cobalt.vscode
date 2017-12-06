@@ -93,13 +93,23 @@
         "keyword",
         "keyword.operator",
         "storage.type.js",
-        "storage.type.class.js",
-        "storage.type.function.js",
         "storage.type.ts",
+        "storage.type.tsx",
+        "storage.type.class.js",
         "storage.type.class.ts",
+        "storage.type.class.tsx",
+        "storage.type.function.js",
         "storage.type.function.ts",
+        "storage.type.function.tsx",
+        "storage.type.interface.ts",
+        "storage.type.interface.tsx",
+        "storage.type.type.ts",
+        "storage.type.type.tsx",
+        "storage.type.enum.ts",
+        "storage.type.enum.tsx",
         "storage.modifier.js",
-        "storage.modifier.ts"
+        "storage.modifier.ts",
+        "storage.modifier.tsx"
       ],
       "settings": {
         "foreground": "#ff9d00"

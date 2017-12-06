@@ -1,5 +1,11 @@
 # Change Log
 
+## CURRENT
+
+* Fix the highlighting for `.tsx` files
+* Refine the highlighting for Typescript files.
+
+
 ## 0.0.3
 
 * Refine the highlighting of keys in YAML/JSON files
