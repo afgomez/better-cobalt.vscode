@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.0.5
+
+* Fix onemoretime method definitions in Ruby
+
 ## 0.0.4
 
 * Fix the highlighting for `.tsx` files
