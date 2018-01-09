@@ -2,7 +2,7 @@
   "name": "better-cobalt",
   "displayName": "Better Cobalt",
   "description": "Cobalt, but better",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "afgomez",
   "engines": {
     "vscode": "^1.16.0"
