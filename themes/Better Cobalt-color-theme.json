@@ -121,7 +121,7 @@
         "meta.definition.function",
         "meta.definition.method",
         "entity.name.type",
-        "entity.name.function.ruby"
+        "meta.function.method entity.name.function"
       ],
       "settings": {
         "foreground": "#ffdd00"
