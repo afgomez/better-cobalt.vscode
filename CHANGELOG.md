@@ -5,6 +5,7 @@
 * Highlight functions when they are defined as properties.
 * Highlight functions when they are defined as variables.
 * Arrows in arrow functions are considered operators.
+* Fix `type` keyword in JS files.
 
 ## 0.0.5
 

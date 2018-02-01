@@ -116,6 +116,7 @@
         "storage.type.function.tsx",
         "storage.type.interface.ts",
         "storage.type.interface.tsx",
+        "storage.type.type.js",
         "storage.type.type.ts",
         "storage.type.type.tsx",
         "storage.type.enum.ts",
