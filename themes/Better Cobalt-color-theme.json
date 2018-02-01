@@ -102,6 +102,9 @@
       "scope": [
         "keyword",
         "keyword.operator",
+        "storage.type.function.arrow.js",
+        "storage.type.function.arrow.ts",
+        "storage.type.function.arrow.tsx",
         "storage.type.js",
         "storage.type.ts",
         "storage.type.tsx",
