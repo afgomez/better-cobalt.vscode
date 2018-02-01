@@ -4,6 +4,7 @@
   "description": "Cobalt, but better",
   "version": "0.0.6",
   "publisher": "afgomez",
+  "repository": "github:afgomez/better-cobalt.vscode",
   "engines": {
     "vscode": "^1.16.0"
   },
