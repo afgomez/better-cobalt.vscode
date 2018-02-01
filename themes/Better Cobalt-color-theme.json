@@ -129,7 +129,7 @@
       "name": "Entity",
       "scope": [
         "meta.definition.function",
-        "meta.definition.method",
+        "meta.definition entity.name.function",
         "entity.name.type",
         "meta.function.method entity.name.function"
       ],

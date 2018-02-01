@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.0.6
+
+* Highlight functions when they are defined as properties.
+* Highlight functions when they are defined as variables.
+
 ## 0.0.5
 
 * Fix onemoretime method definitions in Ruby
