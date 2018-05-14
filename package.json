@@ -2,7 +2,7 @@
   "name": "better-cobalt",
   "displayName": "Better Cobalt",
   "description": "Cobalt, but better",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "publisher": "afgomez",
   "repository": "github:afgomez/better-cobalt.vscode",
   "engines": {
