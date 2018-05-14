@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.0.7
+
+* Add python support
+
 ## 0.0.6
 
 * Highlight functions when they are defined as properties.
