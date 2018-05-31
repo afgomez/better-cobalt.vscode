@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.0.8
+
+Fix function syntax for JS after adding python support.
+
 ## 0.0.7
 
 * Add python support

@@ -111,6 +111,7 @@
         "keyword.operator",
         "meta.function storage.type",
         "meta.class storage.type",
+        "storage.type.function",
         "storage.type.function.arrow.js",
         "storage.type.function.arrow.ts",
         "storage.type.function.arrow.tsx",
@@ -138,7 +139,10 @@
         "meta.definition.function",
         "meta.definition entity.name.function",
         "entity.name.type",
-        "meta.function entity.name.function"
+        "meta.function.method entity.name.function",
+        "meta.object-literal.key entity.name.function",
+        "meta.function.python entity.name.function",
+        "meta.function.python support.fuction.magic"
       ],
       "settings": {
         "foreground": "#ffdd00"
