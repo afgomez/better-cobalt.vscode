@@ -16,7 +16,8 @@
     "sideBar.background": "#030711",
     "sideBarTitle.foreground": "#bbbbbb",
     "tab.inactiveBackground": "#030711",
-    "terminal.background": "#000000"
+    "terminal.background": "#000000",
+    "titleBar.activeBackground": "#071027"
   },
   "tokenColors": [
     {
